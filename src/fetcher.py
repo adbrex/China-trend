@@ -12,6 +12,13 @@ logger = logging.getLogger(__name__)
 
 RSSHUB_BASE_URL = "https://rsshub.app"
 
+# Fallback instances tried in order when primary fails
+RSSHUB_FALLBACKS = [
+    "https://rsshub.rssforever.com",
+    "https://rss.shab.fun",
+    "https://hub.slarker.me",
+]
+
 SOURCES = [
     {"name": "微博热搜", "path": "/weibo/search/hot", "weight": 1.0},
     {"name": "知乎热榜", "path": "/zhihu/hotlist", "weight": 1.2},
@@ -20,7 +27,7 @@ SOURCES = [
 
 MAX_ITEMS_PER_SOURCE = 30
 REQUEST_TIMEOUT = 20
-MAX_RETRIES = 3
+MAX_RETRIES = 2
 
 
 @dataclass
@@ -47,15 +54,27 @@ def _fetch_with_retry(url: str) -> Optional[str]:
     return None
 
 
+def _fetch_source_with_fallback(path: str, primary_base: str) -> Optional[str]:
+    """Try primary RSSHub instance, then fallbacks."""
+    candidates = [primary_base] + RSSHUB_FALLBACKS
+    for base in candidates:
+        url = base + path
+        raw = _fetch_with_retry(url)
+        if raw is not None:
+            if base != primary_base:
+                logger.info("Used fallback instance: %s", base)
+            return raw
+    return None
+
+
 def fetch_all_sources(rsshub_base: str = RSSHUB_BASE_URL) -> List[FeedItem]:
     all_items: List[FeedItem] = []
     any_success = False
 
     for source in SOURCES:
-        url = rsshub_base + source["path"]
-        logger.info("Fetching %s from %s", source["name"], url)
+        logger.info("Fetching %s", source["name"])
 
-        raw = _fetch_with_retry(url)
+        raw = _fetch_source_with_fallback(source["path"], rsshub_base)
         if raw is None:
             logger.error("Failed to fetch source: %s", source["name"])
             continue
