@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>中国トレンド日報</title>
-    <description>初回実行前のプレースホルダー</description>
+    <title><![CDATA[中国トレンド日報]]></title>
+    <link></link>
+    <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
+    <lastBuildDate>Wed, 13 May 2026 05:39:09 GMT</lastBuildDate>
+    <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title><![CDATA[[36氪] # 中国メディア記事要約（36氪）]]></title>
+    <link>https://www.36kr.com/p/3807234971131656</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807234971131656</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 6月上海で開催、出海グローバル化フォーラム]]></title>
+    <link>https://www.36kr.com/p/3807181524491784</link>
+    <description><![CDATA[<p><strong>内容:</strong> EqualOcean主催の「2026出海グローバル化百人論坛」が6月11日上海で開催予定。「レジリエンスのあるグローバル化、AIの未来」をテーマに、中国企業の国際展開の課題を議論する。</p>
+<p><strong>注目理由:</strong> 中国企業の対外進出戦略とAI産業化が政策レベルで重視されている</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807181524491784</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 光モジュール大手が急騰、烟台首富一族の資産が1600億元超に]]></title>
+    <link>https://www.36kr.com/p/3807183407128066</link>
+    <description><![CDATA[<p><strong>内容:</strong> 光モジュール大手・中際旭創の株価が1017.99元まで上昇、創業板で過去2番目の千元株に。AI演算需要の爆発を背景に、機関投資家の大型重倉株となっている。</p>
+<p><strong>注目理由:</strong> AI産業チェーン関連企業の急速な成長と富豪層の資産増加が顕著</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807183407128066</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] オルトマンがマスク出張中に爆弾発言：マスク、OpenAIを子どもに相続させたかった]]></title>
+    <link>https://www.36kr.com/p/3807135338962693</link>
+    <description><![CDATA[<p><strong>内容:</strong> OpenAI訴訟の法廷でオルトマンが証言。マスクがかつてOpenAIの支配権を自分の子どもに相続させることを考えていたと主張。両者の経営方針の根本的対立が露呈。</p>
+<p><strong>注目理由:</strong> AIの最大手企業OpenAIの内部紛争が劇的に展開、業界関係者の関心が極めて高い</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807135338962693</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 開場時に170%急騰、紅杉シードファンドの初上場]]></title>
+    <link>https://www.36kr.com/p/3807128106049026</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI医薬送達企業・劑泰科技が香港上場。発行価10.50香港ドルから開場時170%超上昇、時価総額330億香港ドル。紅杉シード初のIPO成功案件、6910倍の購入倍数を記録。</p>
+<p><strong>注目理由:</strong> AI医薬分野の急速な商業化とハイテク企業のIPO活況が続く</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807128106049026</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] MCN危機管理：王暖暖と無忧传媒の「友好解約」から見える課題]]></title>
+    <link>https://www.36kr.com/p/3807143051599618</link>
+    <description><![CDATA[<p><strong>内容:</strong> タイ落崖事件の当事者・王暖暖がMCN企業・無忧传媒を批判し、双方が友好解約。インフルエンサーとMCNの契約紛争が増加する中での典型的なPR失敗ケース。</p>
+<p><strong>注目理由:</strong> ライブコマース・インフルエンサーエコノミーの成長に伴う業界の課題が顕在化</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807143051599618</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] iOS 27ではSiriが独立アプリに復帰、Appleが大幅リニューアル]]></title>
+    <link>https://www.36kr.com/p/3807147803303681</link>
+    <description><![CDATA[<p><strong>内容:</strong> 次期iOS 27（コード名「Rave」）でSiriが独立アプリとなり、ChatGPT同様の大規模言語モデル対応の全天候スマート操作が可能に。15年ぶりの独立アプリ化。</p>
+<p><strong>注目理由:</strong> AI化するスマートフォンOSの方向性が転換、業界標準が更新される</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807147803303681</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 最近のホットトピックから見える世界の静かな変化]]></title>
+    <link>https://www.36kr.com/p/3807159914962441</link>
+    <description><![CDATA[<p><strong>内容:</strong> 深圳での禁煙啓発・高齢化対応・格差是正など複数の社会現象が同時進行。個別事象は関連なく見えるが、社会価値観の底流変化を示唆している。</p>
+<p><strong>注目理由:</strong> 中国社会の価値観シフトが多角的に現れている</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807159914962441</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] AIガベージコンテンツ製作者は年収千万、負担者は誰か]]></title>
+    <link>https://www.36kr.com/p/3807135485370121</link>
+    <description><![CDATA[<p><strong>内容:</strong> YouTubeで低質AI生成動画が全推奨動画の20%以上を占め、278チャネルが年数百万ドル稼出。AI普及による「コンテンツ通貨膨張」が社会問題化。</p>
+<p><strong>注目理由:</strong> AI生成コンテンツの濫用による情報生態系の劣化が深刻化</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807135485370121</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 「県域王者」の争奪戦、華潤・銀泰が急伸]]></title>
+    <link>https://www.36kr.com/p/3807124384620294</link>
+    <description><![CDATA[<p><strong>内容:</strong> 一二線城市の商業飽和に対し、ローカル都市が新しい戦場に。大手商業管理企業が低線都市での店舗展開を加速、商業サービスのアップグレードが進行中。</p>
+<p><strong>注目理由:</strong> 小売・不動産投資の重心がシフト、県域経済が急成長段階へ</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Wed, 13 May 2026 05:39:09 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3807124384620294</guid>
+  </item>
   </channel>
 </rss>
