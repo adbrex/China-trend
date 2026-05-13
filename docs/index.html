@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>中国トレンド日報</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 720px; margin: 60px auto; padding: 0 20px; color: #333; line-height: 1.7; }
+    h1 { font-size: 1.8rem; border-bottom: 2px solid #e00; padding-bottom: 8px; }
+    code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+    a { color: #0066cc; }
+    .badge { display: inline-block; background: #e00; color: #fff; border-radius: 4px; padding: 2px 8px; font-size: 0.8em; margin-left: 8px; vertical-align: middle; }
+  </style>
+</head>
+<body>
+  <h1>中国トレンド日報 <span class="badge">RSS</span></h1>
+  <p>中国主要メディア（微博热搜・知乎热榜・36氪）の話題記事をAIが日本語要約して配信するRSSフィードです。<br>
+  1日2回（朝6時・夕6時 JST）自動更新。</p>
+
+  <h2>RSSフィードを購読する</h2>
+  <p>以下のURLをRSSリーダー（Inoreader・Feedly等）に登録してください。</p>
+  <p><code id="feed-url"></code></p>
+  <script>
+    document.getElementById("feed-url").textContent = window.location.origin + window.location.pathname.replace(/\/?$/, "/") + "feed.xml";
+  </script>
+
+  <h2>データソース</h2>
+  <ul>
+    <li><strong>微博热搜</strong> — 微博のリアルタイム検索トレンド</li>
+    <li><strong>知乎热榜</strong> — Q&Aプラットフォーム「知乎」の人気トピック</li>
+    <li><strong>36氪</strong> — 中国テック・スタートアップメディア</li>
+  </ul>
+
+  <h2>フィードを直接確認</h2>
+  <p><a href="feed.xml">feed.xml を開く</a></p>
+
+  <hr>
+  <p style="font-size:0.85em; color:#888;">Powered by Claude Haiku 4.5 &amp; GitHub Actions</p>
+</body>
+</html>

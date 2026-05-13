@@ -1,0 +1,46 @@
+name: China Trends Feed
+
+on:
+  schedule:
+    # 06:00 JST = 21:00 UTC (previous day)
+    - cron: "0 21 * * *"
+    # 18:00 JST = 09:00 UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run feed generator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FEED_LINK: ${{ vars.FEED_LINK }}
+        run: python -m src.main
+
+      - name: Commit and push updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml docs/seen.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update feed $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
