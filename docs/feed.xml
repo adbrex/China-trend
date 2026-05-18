@@ -5,95 +5,77 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 23:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:14:23 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国主要メディア記事10本 日本語要約]]></title>
-    <link>https://www.36kr.com/p/3810669040295427</link>
+    <title><![CDATA[[36氪] # 中国主要メディア記事日本語要約]]></title>
+    <link>https://www.36kr.com/p/3812777523650051</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810669040295427</guid>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3812777523650051</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] AIが地方メディアを偽造し始めた]]></title>
-    <link>https://www.36kr.com/p/3811405245947907</link>
-    <description><![CDATA[<p><strong>内容:</strong> 米フロリダ州でAIが生成した架空の記者による偽のニュースサイト「South Florida Standard」が発覚。AI生成の記者顔写真や経歴を使用し、他媒体の記事をAIで改写して掲載。同一運営者による17個の類似サイトが確認された。</p>
-<p><strong>注目理由:</strong> AIによる情報操作の大規模化・組織化の実例として、メディア信頼性とAI規制に関する警鐘</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3811405245947907</guid>
+    <title><![CDATA[[36氪] 肯德基も売却へ−怡和集団が28億元で資産売却]]></title>
+    <link>https://www.36kr.com/p/3811861081235207</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3811861081235207</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] AI労働者の「初給与」：16.88ドル]]></title>
-    <link>https://www.36kr.com/p/3810713759964675</link>
-    <description><![CDATA[<p><strong>内容:</strong> ユーザーがAI言語モデル「Codex」に金銭獲得タスクを与えたところ、実際に16.88ドル（約114元）を稼得。AIの経済的自律性の実験的成功事例。</p>
-<p><strong>注目理由:</strong> AIの経済活動への直接参加可能性を示す興味深い事例として話題化</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810713759964675</guid>
+    <title><![CDATA[[36氪] ファナティクス×FIFA：ワールドカップカードが仕掛ける大型ビジネス]]></title>
+    <link>https://www.36kr.com/p/3812115579625223</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3812115579625223</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 央視の世界杯放映権獲得：FIFAの譲歩とレノボの仲介役]]></title>
-    <link>https://www.36kr.com/p/3810669038853641</link>
-    <description><![CDATA[<p><strong>内容:</strong> 中央テレビが2026年ワールドカップの放映権を獲得。FIFA初期要求3億ドルから央視予算6000万ドルへの大幅値下げで合意。レノボが重要な交渉仲介者として機能。</p>
-<p><strong>注目理由:</strong> 中国の国際スポーツ交渉力と企業外交的役割の変化を示す重要事例</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810669038853641</guid>
+    <title><![CDATA[[36氪] ジョブズ対ゲイツ：シリコンバレーの伝説的な口論集]]></title>
+    <link>https://www.36kr.com/p/3813023648669955</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3813023648669955</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] テンセントが「ジャービス」を開発：AI個人アシスタント「Marvis」]]></title>
-    <link>https://www.36kr.com/p/3810665013763584</link>
-    <description><![CDATA[<p><strong>内容:</strong> テンセント内測中のOS層AI助手「Marvis」。複数エージェント協働でアプリ操作、ファイル管理、データ分析などを24時間自動実行。Windows/Androidに対応、iOS/macOS近日対応予定。</p>
-<p><strong>注目理由:</strong> 中国大手企業による実用的AI自動化ツールの急速開発と展開</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810665013763584</guid>
+    <title><![CDATA[[36氪] Anthropic CEO最新インタビュー：Claude新機能はAIが自主開発、ソフトウェア無料時代へ]]></title>
+    <link>https://www.36kr.com/p/3813064998265088</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3813064998265088</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 低予算映画『給阿嬷的情書』が10億元超の興行収入へ]]></title>
-    <link>https://www.36kr.com/p/3810520138243593</link>
-    <description><![CDATA[<p><strong>内容:</strong> 制作費1400万元の台湾映画が豆瓣9.1点を獲得、15日間で3億元に接近する興行収入を達成。初期排映3.6%から35%へ上昇、10億元超を予測。</p>
-<p><strong>注目理由:</strong> 中国映画市場における低予算作品の爆発的成功の稀有な事例</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810520138243593</guid>
+    <title><![CDATA[[36氪] アメスがIPO申請：「中国ソフトグミ第一号」誕生へ]]></title>
+    <link>https://www.36kr.com/p/3813333510594305</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3813333510594305</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 元アップル技術者が骨伝導イヤホンで新興企業設立]]></title>
-    <link>https://www.36kr.com/p/3810601052102405</link>
-    <description><![CDATA[<p><strong>内容:</strong> 蘇州索迩電子（Mojawa）がA+ラウンドで数千万元を調達。元アップルエンジニアが独自技術でヘッド企業の特許独占を打破。2024年骨伝導市場規模12.8億ドル、高成長予測。</p>
-<p><strong>注目理由:</strong> 技術人材の独立起業と新興市場開拓の成功事例</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810601052102405</guid>
+    <title><![CDATA[[36氪] 純粋なジェネリック医薬品大手は存在しなくなった]]></title>
+    <link>https://www.36kr.com/p/3813241564421894</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3813241564421894</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] Codingを上回る大きな価値とは何か]]></title>
-    <link>https://www.36kr.com/p/3810649127558664</link>
-    <description><![CDATA[<p><strong>内容:</strong> AI企業の収益化フェーズ確認。アリのMaaS ARRが80億元超、モルガンスタンレーはMiniMaxの分析で1分間1ドル収入・0.3ドル以下の原価を指摘。AI企業の利益率が業界平均を上回る。</p>
-<p><strong>注目理由:</strong> AI業界の「バブル論終焉」と実際の経済的持続可能性が証明された転換点</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3810649127558664</guid>
+    <title><![CDATA[[36氪] OpenAIとAppleの決裂：提携から訴訟へ]]></title>
+    <link>https://www.36kr.com/p/3813174022283015</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3813174022283015</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] QQがAI投稿アプリを内測：馬化騰の「船漏水」戦略への対抗]]></title>
-    <link>https://www.36kr.com/p/3811279603081216</link>
-    <description><![CDATA[<p><strong>内容:</strong> テンセントがQQでAI投稿機能をテスト中。ユーザーがAIゲーム、軽量ツール、AI対話機能をソーシャル投稿として直接生成・共有可能。老舗SNS活性化の重要施策。</p>
-<p><strong>注目理由:</strong> テンセントのAI活用による既存社交プラットフォーム再活性化戦略</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3811279603081216</guid>
+    <title><![CDATA[[36氪] Onoco Technology IPO：配当先行、その後増資で「流動性補充」]]></title>
+    <link>https://www.36kr.com/p/3814030630084354</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3814030630084354</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 世界杯が中国で「格下げ」された]]></title>
-    <link>https://www.36kr.com/p/3811262989901576</link>
-    <description><![CDATA[<p><strong>内容:</strong> 央視が2026年ワールドカップ放映権を獲得という朗報の陰で、中国スポーツ版権市場の深刻な衰退が露呈。初期要求3億ドルから6000万ドルへの急落は市場縮小を意味する。</p>
-<p><strong>注目理由:</strong> 中国スポーツ版権市場の構造的危機と経済的衰退の現実</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 16 May 2026 23:38:26 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3811262989901576</guid>
+    <title><![CDATA[[36氪] 8点1氪ニュースダイジェスト：燃油車大幅値下げ、茅台値上げ、バフェット慈善昼食]]></title>
+    <link>https://www.36kr.com/p/3813046026247686</link>
+    <description><![CDATA[<p>（要約なし）</p>]]></description>
+    <pubDate>Mon, 18 May 2026 00:14:23 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3813046026247686</guid>
   </item>
   </channel>
 </rss>
