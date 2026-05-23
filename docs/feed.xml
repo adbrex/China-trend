@@ -5,95 +5,95 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 May 2026 06:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:11:37 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国主要メディア記事10本の日本語要約]]></title>
-    <link>https://www.36kr.com/p/3821370179834244</link>
+    <title><![CDATA[[36氪] # 中国メディア記事10本の日本語要約]]></title>
+    <link>https://www.36kr.com/p/3821714896408713</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821370179834244</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821714896408713</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 宁德时代、105億元でAI算力企業に投資、DeepSeekへの参画も]]></title>
-    <link>https://www.36kr.com/p/3821376674386305</link>
-    <description><![CDATA[<p><strong>内容:</strong> 電池大手の宁德时代が105億元を投じAI・電力・ストレージの統合事業を展開。米上場のIDCプロバイダー世纪互联に64億元投資して38.1%株取得。さらにDeepSeekのシリーズA融資参画も報じられている。</p>
-<p><strong>注目理由:</strong> 伝統産業大手がAIインフラへの大規模参入を示唆し、中国の産業構造転換を象徴している</p>
+    <title><![CDATA[[36氪] 次のキラーAI製品はどの分野に現れるのか？ - AI眼鏡からエンボディド知能まで]]></title>
+    <link>https://www.36kr.com/p/3821580899553668</link>
+    <description><![CDATA[<p><strong>内容:</strong> 次世代のキラーAI製品について業界専門家が議論。単なる大規模言語モデルの応用では短命に終わり、常時接続・物理世界連携・実際のインタラクション完了が可能な製品だけが百億元規模の市場となる可能性を指摘。ハードウェア先行か生態優先かの議論を経て、「マルチモーダル基盤+AI原生エージェント+ウェアラブルハードウェア」の統合が必須との結論に達する。</p>
+<p><strong>注目理由:</strong> AI産業化の次段階における市場競争軸が「入口争奪戦」にシフトしていることを示唆している。</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821376674386305</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821580899553668</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] DeepSeekがAI Codingに重心シフト、新ポジション公開]]></title>
-    <link>https://www.36kr.com/p/3821371042877575</link>
-    <description><![CDATA[<p><strong>内容:</strong> DeepSeek（融資700億元）が「AgentHarness」製品マネージャーと開発エンジニアを募集。モデル機能をAgent製品に転化し、デスクトップ向けAgent製品開発に注力する方針が明らかに。</p>
-<p><strong>注目理由:</strong> 大型融資直後の経営方針転換でコーディング支援ツール市場での本格展開を示唆</p>
+    <title><![CDATA[[36氪] Google検索がAIエージェント化で不具合続出、AIが「罷業」状態に]]></title>
+    <link>https://www.36kr.com/p/3821573572862212</link>
+    <description><![CDATA[<p><strong>内容:</strong> Google I/O大会で発表された25年ぶりの検索エンジン大更新がバグ多発。特定のキーワード入力で検索機能が正常に動作しない問題が報告されている。エージェント技術の実装段階での課題を浮き彫りにしている。</p>
+<p><strong>注目理由:</strong> 大型テック企業のAI製品でも実装段階での問題が頻発しており、信頼性構築が課題であることを示している。</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821371042877575</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821573572862212</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 北大発祥の機器人向けAIチップ企業、数億元の初期資金調達]]></title>
-    <link>https://www.36kr.com/p/3821207743861127</link>
-    <description><![CDATA[<p><strong>内容:</strong> 维泛智能が2025年5月設立され数億元の種子輪融資を獲得。北大の脳型チップ研究室から孵化、具身知能の「大小脳」融合チップ開発と国産化ロボット計算ソリューション構築を目指す。</p>
-<p><strong>注目理由:</strong> アカデミック発祥のハードウェア系AIスタートアップの急速な立ち上げと資金調達が加速</p>
+    <title><![CDATA[[36氪] 老板電器、AIで「開飯」を待つ]]></title>
+    <link>https://www.36kr.com/p/3821558716731783</link>
+    <description><![CDATA[<p><strong>内容:</strong> 老板電器が「3年で新しい老板電器を再構築」の掲げた目標に失敗。2022年の102.72億元の売上が2025年は101.16億元に低下。地産駆動から内生増長への転換期における苦しい状況が続いている。デジタル・AI転型での革新が課題。</p>
+<p><strong>注目理由:</strong> 中国の大手家電メーカーがAI時代への転換に苦戦する現実を示している。</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821207743861127</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821558716731783</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] フルーティーティー市場に革新、大粒果肉で差別化戦略]]></title>
-    <link>https://www.36kr.com/p/3821221087400326</link>
-    <description><![CDATA[<p><strong>内容:</strong> 百分茶、鲜芒多など複数ブランドが今夏、大粒の果肉を大量に使用したフルーティーティーを展開。スープを模したユニークな商品も登場し、予約販売15万単位で売切れする状況。</p>
-<p><strong>注目理由:</strong> コモディティ化する飲料市場での商品差別化トレンドと消費者の嗜好変化</p>
+    <title><![CDATA[[36氪] ウェディングドレスの女王ブランド「プロノビアス」が売却]]></title>
+    <link>https://www.36kr.com/p/3821542483857801</link>
+    <description><![CDATA[<p><strong>内容:</strong> 郭晶晶なども着用した百年スペイン婚紗ブランドPronoviasが英国PE企業に買収される。経営難から破産保護を申請。デジタル化とロマンティック産業の衰退が背景にある。</p>
+<p><strong>注目理由:</strong> 伝統産業が新時代の消費トレンドに適応できず衰退する現象を象徴している。</p>
 <p><strong>リサーチ価値:</strong> ★☆☆</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821221087400326</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821542483857801</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] AI需要がアナログチップ市場に波及]]></title>
-    <link>https://www.36kr.com/p/3819979202253189</link>
-    <description><![CDATA[<p><strong>内容:</strong> 大型AIモデルの計算負荷増加に伴い、電力・ストレージ側のアナログ回路重要性が急増。英伟達の2027年Q1収益が816億ドル（前年比85%増）、SK海力士のHBM販売が倍増見込みなど、ハイエンドチップ需要拡大が顕著。</p>
-<p><strong>注目理由:</strong> AI需要が半導体産業全体、特にアナログチップ領域に波及する産業動向</p>
+    <title><![CDATA[[36氪] AIが産業最前線に進出する時代、最も不足するAI人材は誰か]]></title>
+    <link>https://www.36kr.com/p/3821533415985283</link>
+    <description><![CDATA[<p><strong>内容:</strong> 反直感的な分析として、「AI技術の知識は急速に陳腐化し、重要な低頻度決定で判断できる人材が稀少」と指摘。高頻度反復業務はAIで代替可能だが、爆発的商品開発やブランド構築などの低頻度・高影響力決定では人間の判断が不可欠。企業のAI転型の最大のボトルネックは技術でなく「応用シナリオの想像力不足」。</p>
+<p><strong>注目理由:</strong> AI時代の人材育成戦略と組織変革の課題を指摘しており、経営層の関心が高い。</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3819979202253189</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821533415985283</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] Moka、HR管理向けAI製品3種を発表]]></title>
-    <link>https://www.36kr.com/p/3821225639956872</link>
-    <description><![CDATA[<p><strong>内容:</strong> AI採用管理プラットフォームMokaが「採用Eva」「人事Eva」「BPEva」3製品を5月に上線。採用全過程、事務効率化、人材判断を自動化。MokaAIワークショップが基盤プラットフォーム。</p>
-<p><strong>注目理由:</strong> HR領域へのAI導入の本格化と業務プロセス全体の自動化トレンド</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821225639956872</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] Manus創業者、10億ドル規模の融資で経営権買い戻し検討]]></title>
-    <link>https://www.36kr.com/p/3821213026570627</link>
-    <description><![CDATA[<p><strong>内容:</strong> Meta買収後のManus創始人らが10億ドル規模の新規融資で企業買い戻し、Meta売却時の20億ドル以上の企業評価を目指す。その後、合弁企業化しHKIPOを計画。</p>
-<p><strong>注目理由:</strong> 規制による収購停止後の経営権回復戦略と中国テック企業の国際M&amp;A動向</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821213026570627</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] ミレニアル世代向けレトログルメ復活、老舗カフェが人気再熱]]></title>
-    <link>https://www.36kr.com/p/3821121515982983</link>
-    <description><![CDATA[<p><strong>内容:</strong> 上岛咖啡、米萝咖啡など1990年代の洋風カフェレストランが若年層に再流行。精緻な食事よりもコストパフォーマンスと社交空間を求める消費者シフトが背景。</p>
-<p><strong>注目理由:</strong> 飲食産業のトレンド転換と消費者心理の変化（質より体験と価格）を象徴</p>
-<p><strong>リサーチ価値:</strong> ★☆☆</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3821121515982983</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 脳機接口ブーム、地方国有資本が追い付き焦慮]]></title>
-    <link>https://www.36kr.com/p/3820481222004873</link>
-    <description><![CDATA[<p><strong>内容:</strong> 强脑科技が20億元の融資でNeuralink以外で世界2番目の脳機接口融資記録を樹立。その直後、25社以上の地方国有投資機関が後続ラウンドへの参画を急遽申し込み。</p>
-<p><strong>注目理由:</strong> 脳機接口の急速な産業化と地方政府によるポートフォリオ形成への危機感</p>
+    <title><![CDATA[[36氪] 「AI原生人材」と「産業経験者」の共生マニュアル]]></title>
+    <link>https://www.36kr.com/p/3821521291038856</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI原生企業は1%のみで、20%が積極的転型、80%が苦戦中。人材面でも同傾向。企業が直面する「AI人材採用への流行追従的焦慮」、ハッカソンによる内部AI人才発掘、「事業による人材確保と文化による定着」戦略を実装手冊として提示。</p>
+<p><strong>注目理由:</strong> AI時代の人材獲得・育成・定着に関する実践的知見が多くの企業経営層から注視されている。</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Sat, 23 May 2026 06:47:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3820481222004873</guid>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821521291038856</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 搜狗創業者・王小川インタビュー：汎用AI主流路線からの転身]]></title>
+    <link>https://www.36kr.com/p/3821519307591811</link>
+    <description><![CDATA[<p><strong>内容:</strong> 王小川がAI医師開発へシフト。主流路線継続でも同等の焦慮があるはずで、この転身により創業初心の「AI医師の創造」に回帰できたと述べている。専門領域特化型AI開発への方針転換。</p>
+<p><strong>注目理由:</strong> 業界指導的人物の戦略転換が、汎用AI競争から専門領域特化AI への産業シフト兆候を示唆している。</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821519307591811</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] AI濃度と転化率：デジタル体験の実践的成長法則]]></title>
+    <link>https://www.36kr.com/p/3821177784881541</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI濃度が高いほど良いわけではなく、人機共生のバランス点が重要。親子向け・高齢者向けでは意図的にAI濃度を50%に抑え、50%超の転化率を実現。文化的温度感と人間中心が鍵。</p>
+<p><strong>注目理由:</strong> AI実装時の「適度さ」という実践的知見が、製品開発・サービス設計の参考になるため。</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3821177784881541</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] ニュースダイジェスト：永輝超市の36億元追債、精神障害に関する《柳叶刀》報告、微信撤回機能制限など]]></title>
+    <link>https://www.36kr.com/p/3788945215921159</link>
+    <description><![CDATA[<p><strong>内容:</strong> 複数の短報ニュース。(1)永輝超市がワンヘルスランなど有名人に36億元以上の追債請求、(2)全球12億人が精神障害患者という医学誌報告、(3)微信アプリが「2分以内のメッセージのみ撤回可能」に変更、(4)泡泡玛特が8.8億元での建物購入、(5)テンセントが版権独占を廃止する承諾、など。</p>
+<p><strong>注目理由:</strong> 当日の中国ビジネス・テック業界の主要ニュースを網羅。</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sat, 23 May 2026 12:11:37 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3788945215921159</guid>
   </item>
   </channel>
 </rss>
