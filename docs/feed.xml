@@ -5,95 +5,95 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 22:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 10:56:04 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国主要メディア記事要約（2026年5月29-30日）]]></title>
-    <link>https://www.36kr.com/p/3831137120395271</link>
+    <title><![CDATA[[36氪] # 中国主要メディア記事10本 日本語要約]]></title>
+    <link>https://www.36kr.com/p/3832898367170185</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831137120395271</guid>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832898367170185</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] DeepSeekが再生成・修正機能に使用回数制限を導入]]></title>
-    <link>https://www.36kr.com/p/3831153848641412</link>
-    <description><![CDATA[<p><strong>内容:</strong> DeepSeekが5月29日から再生成・修正機能に利用制限を開始。通常モードで3～6回、エキスパートモードで3回程度で上限に達するようになった。入力修正は一般的に6回が上限。</p>
-<p><strong>注目理由:</strong> 急速に利用が拡大するDeepSeekの無料利用者が増加しており、サーバー負荷軽減のための施策として関心を集めている</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （AI企業の無料ユーザー対策の参考になるが、中国特有の状況）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831153848641412</guid>
+    <title><![CDATA[[36氪] AI企業の急騰と急落——蓮花控股の二重奏]]></title>
+    <link>https://www.36kr.com/p/3832884398598024</link>
+    <description><![CDATA[<p><strong>内容:</strong> 経営難から脱出した味精メーカー・蓮花控股が、3月以降AI関連への転身を発表して株価が2倍に急騰したが、その後3日間で20%超下落。市場のAI銘柄への過度な期待と現実のギャップが露呈した。</p>
+<p><strong>注目理由:</strong> 中国のAIブームにおける投機的な株価変動と、実績なき転身への市場警戒を示す典型例</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832884398598024</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 中国の新茶飲ブランド「柠季」がハーゲンダッツ中国事業の買収を検討]]></title>
-    <link>https://www.36kr.com/p/3831159799834249</link>
-    <description><![CDATA[<p><strong>内容:</strong> 長沙発祥の新茶飲ブランド・柠季がハーゲンダッツの中国店舗事業買収を計画中。既に低迷していたハーゲンダッツの事業転換を示唆している。</p>
-<p><strong>注目理由:</strong> 海外プレミアムアイスクリームブランドの中国市場での衰退と、新興飲食ブランドによる業界再編の流れを象徴</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （中国の消費トレンド変化と業界M&amp;Aの動向）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831159799834249</guid>
+    <title><![CDATA[[36氪] 華尔街最年少ファンドマネージャーの逆張り戦略]]></title>
+    <link>https://www.36kr.com/p/3831900268865157</link>
+    <description><![CDATA[<p><strong>内容:</strong> OpenAI退職後、23歳でヘッジファンドを創設したLeopold Aschenbrennerが、AIチップではなく電力・データセンター・エネルギーインフラに投資。その戦略が的中し、ファンドの運用資産が137億ドルに達した。</p>
+<p><strong>注目理由:</strong> テックジャイアントのAI投資シフトと基礎インフラへの需要急増を象徴するトレンド</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3831900268865157</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] MiniMaxがA株上場に向けた審査受付を開始]]></title>
-    <link>https://www.36kr.com/p/3831135917107075</link>
-    <description><![CDATA[<p><strong>内容:</strong> 上海のAI大モデル企業MiniMaxが5月29日にA株上場の審査申請を提出。中信証券が主幹事。同時期にZhipuも上場を目指しており、A株AI企業上場競争が本格化。</p>
-<p><strong>注目理由:</strong> 中国AI企業のIPO競争が激化し、国内キャピタルマーケットでのAI産業育成政策が顕在化</p>
-<p><strong>リサーチ価値:</strong> ★★★ （中国AI産業の成熟度と資本市場戦略の重要な指標）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831135917107075</guid>
+    <title><![CDATA[[36氪] 中国AI新興勢力の財務比較——4社の対比分析]]></title>
+    <link>https://www.36kr.com/p/3832712651335299</link>
+    <description><![CDATA[<p><strong>内容:</strong> 智谱（時価総額7000億元超、赤字47.18億元）、MiniMax（営収増加159%で単独黒字化）、月之暗面（2026年初に爆発的成長）、01.AIの4社を分析。営収成長と利益率改善に大きな差異。</p>
+<p><strong>注目理由:</strong> 中国国産AI企業の収益化進展と持続可能性の評価が市場で分化</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832712651335299</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 工業ロボット企業Chengwu Roboticsが天使ラウンドの融資完了]]></title>
-    <link>https://www.36kr.com/p/3830445966483462</link>
-    <description><![CDATA[<p><strong>内容:</strong> フォックスコン向けのロボットソリューション企業Chengwu Roboticsが天使ラウンドで融資獲得。半年で売上2000万元超。和椿科技（台湾）がストラテジック投資。</p>
-<p><strong>注目理由:</strong> 工業用AIロボットの実装企業の急速な成長が注目され、EMS産業との関連性が高い</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （スマートマニュファクチャリングの実装例）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3830445966483462</guid>
+    <title><![CDATA[[36氪] 段永平によるポップマート大型投資——「バフェット」の真意]]></title>
+    <link>https://www.36kr.com/p/3832587098924933</link>
+    <description><![CDATA[<p><strong>内容:</strong> 著名投資家・段永平が、ポップマート創業者・王寧に数か月の説得を経て、約132億香港ドル分を購入し第二大株主に。「中国のバフェット」の動きが市場の関心を喚起。</p>
+<p><strong>注目理由:</strong> 大物投資家による大型投資判断が、IP経済と消費銘柄の価値評価を左右</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832587098924933</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 「天坑専攻」が新しい名称で復活──翻訳・図書館学・哲学の名前替え戦略]]></title>
-    <link>https://www.36kr.com/p/3830455881016969</link>
-    <description><![CDATA[<p><strong>内容:</strong> 翻訳、図書館学、哲学など就職難の「天坑専攻」が、「涉外法治」「国際伝播」「データサイエンス」「AI倫理」など新しい専攻名で復活。中国の高等教育が学生需要に対応。</p>
-<p><strong>注目理由:</strong> 中国大学の専攻改革の実態と学生の就職難問題への対応戦略として教育改革の指標になる</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （中国高等教育の改革動向）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3830455881016969</guid>
+    <title><![CDATA[[36氪] 北京の独角兽企業116社——五道口の生態系の強さ]]></title>
+    <link>https://www.36kr.com/p/3832529606797193</link>
+    <description><![CDATA[<p><strong>内容:</strong> 2025年末時点で北京の独角兽企業は116社、総估値7400億ドル超。中関村から字節跳動、AI企業まで、30年間で複数の産業サイクルを経験し、継続的にイノベーション企業を輩出。</p>
+<p><strong>注目理由:</strong> 中国テック産業の中核拠点の持続的な競争力を実証</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832529606797193</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] AI業界の商業トレンドを6つの質問で読み解く]]></title>
-    <link>https://www.36kr.com/p/3831059126855557</link>
-    <description><![CDATA[<p><strong>内容:</strong> Anthropicが年化売上10億から470億ドルへ急成長し、H轮で650億ドル調達。DeepSeek評価額450億ドル、国家大基金が700億元融資を主導。Kimi完成20億ドル調達で評価額200億超。AI企業の大型融資が続く。</p>
-<p><strong>注目理由:</strong> グローバルAI企業の成長速度と中国政府の支援規模が注目を集め、AI産業の資金流動を象徴</p>
-<p><strong>リサーチ価値:</strong> ★★★ （グローバルと中国のAI企業評価額の急騰）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831059126855557</guid>
+    <title><![CDATA[[36氪] 茶飲業界の「朝食戦争」——古茗が1.3万店に烤箱導入]]></title>
+    <link>https://www.36kr.com/p/3832535842742277</link>
+    <description><![CDATA[<p><strong>内容:</strong> 古茗が8月までに全国1.3万店にオーブンを導入して朝食強化、霸王茶姬はアイス、茶颜悦色は零食店を展開。一方、蜜雪冰城は早餐試験店を撤出。業界の多角化戦略と現実のギャップ。</p>
+<p><strong>注目理由:</strong> 飲食フランチャイズの多元化戦略と加盟店経営負担のジレンマが浮上</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832535842742277</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 私域電商群での購入契約が原因で消費者が被告に──コンプライアンス問題]]></title>
-    <link>https://www.36kr.com/p/3831073348855433</link>
-    <description><![CDATA[<p><strong>内容:</strong> ソーシャルEコマース（私域群購入）で高額商品を購入した消費者が、契約紛争で被告となる案件が増加。群内取引のリスクが浮上。</p>
-<p><strong>注目理由:</strong> 中国で急速に拡大する私域電商モデルの法的リスクと消費者保護の問題が顕在化</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （中国の新型電商モデルのリスク分析）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831073348855433</guid>
+    <title><![CDATA[[36氪] ストレージ大手・大普微の估値バブル——3100億元の急騰リスク]]></title>
+    <link>https://www.36kr.com/p/3832445782288008</link>
+    <description><![CDATA[<p><strong>内容:</strong> ストレージ超周期の中、大普微は4月16日創業板上場、估値が急速に膨張。業績兑現段階への期待と過度な估値透視のリスク、「杀估值」調整の可能性が指摘される。</p>
+<p><strong>注目理由:</strong> 半導体サイクルのピーク局面での估値バブル警告</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832445782288008</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 朝刊ニュース：泡泡玛特急騰、段永平の単日利益10億港元超；ノキア199元スマホ発表；滴滴の乗客問題対応]]></title>
-    <link>https://www.36kr.com/p/3831071878358659</link>
-    <description><![CDATA[<p><strong>内容:</strong> 複数のホットトピック：①泡泡玛特（Popmart）が大幅上昇し、投資家段永平が単日でほぼ10億港元の利益；②ノキアが199元スマホを発表；③滴滴が乗客マナー問題に対応。その他iPhone 17中国販売300万台超、SpaceX IPO目標下方修正。</p>
-<p><strong>注目理由:</strong> 中国テック業界の複数のホットニュースが集約されており、市場動向の広い視野が必要</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （日々の市場動向チェック用）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3831071878358659</guid>
+    <title><![CDATA[[36氪] 香港新薬IPO打新の黄金期と規制転機]]></title>
+    <link>https://www.36kr.com/p/3831510606473090</link>
+    <description><![CDATA[<p><strong>内容:</strong> 港股打新資金が過去最高水準で、バイオテック企業のIPO人気が異常。千倍購入や数千元の一手利益が頻出。しかし5月22日の中国証監会規制により、越境証券経営の2年集中整治期間が開始。</p>
+<p><strong>注目理由:</strong> 香港バイオテック企業の過熱と中国の規制強化の転換点</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3831510606473090</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 衛星が受動応答から自主決策へ──「太空智驾」の時代到来]]></title>
-    <link>https://www.36kr.com/p/3803086910316039</link>
-    <description><![CDATA[<p><strong>内容:</strong> 中科院西安光機所の副所長が、衛星がL4レベルの自動運転車のように自主的な環境認知・任務計画・機動決定能力を持つ「太空智驾」時代の到来を予測。</p>
-<p><strong>注目理由:</strong> 中国の衛星技術のAI化と自動化が進展し、宇宙産業での技術革新が注目される</p>
-<p><strong>リサーチ価値:</strong> ★★☆ （中国の宇宙産業技術動向）</p>]]></description>
-    <pubDate>Sat, 30 May 2026 22:04:27 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3803086910316039</guid>
+    <title><![CDATA[[36氪] 復旦卒業生が率いるAI推論企業の千億估値達成]]></title>
+    <link>https://www.36kr.com/p/3832474651223942</link>
+    <description><![CDATA[<p><strong>内容:</strong> Fireworks AI（創業者Lin Qiao・乔琳は復旦大学出身）がシリーズ融資で150億ドル估値を実現。4年間でTokenベースの事業モデルで1日30万億トークン処理、瞬間的に成長。</p>
+<p><strong>注目理由:</strong> 中国系AI起業家が海外で急速に価値創造している事例</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 31 May 2026 10:56:04 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3832474651223942</guid>
   </item>
   </channel>
 </rss>
