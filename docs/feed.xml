@@ -5,95 +5,95 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 23:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:41:30 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国主要メディア記事10本 日本語要約]]></title>
-    <link>https://www.36kr.com/p/3834762820662408</link>
+    <title><![CDATA[[36氪] # 中国主要メディア記事要約（日本人リサーチャー向け）]]></title>
+    <link>https://www.36kr.com/p/3835976053388680</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834762820662408</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835976053388680</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 三角梅を西蔵まで売る：Kuaishou電商の小商人たちと彼らのゆっくりとしたビジネス]]></title>
-    <link>https://www.36kr.com/p/3834536473223430</link>
-    <description><![CDATA[<p><strong>内容:</strong> 雲南出身の商人が、Kuaishouプラットフォームで三角梅（ブーゲンビレア）販売を展開。年間売上1000万元超え、北方ユーザーが7～8割を占める。1人の顧客だけで7000以上の注文、累計1万株以上を購入。冬の風景に彩りを添える低価格商品として人気。</p>
-<p><strong>注目理由:</strong> ライブコマースが従来産業とどう融合し、新たなビジネスチャンスを生み出しているかの実例</p>
+    <title><![CDATA[[36氪] エヌビディアの職種別給与公開：最高給はAI研究員ではなく、基本給年200万元超が続出]]></title>
+    <link>https://www.36kr.com/p/3835976458155396</link>
+    <description><![CDATA[<p><strong>内容:</strong> 米エヌビディアの従業員給与がビジネスインサイダーの公開資料から明らかになった。ソフトウェアエンジニア、プロダクトマネージャー、アーキテクチャディレクターなど各職種の基本給が年数百万元（株式・ボーナス別）に達しており、従業員の定着率が業界で最高水準である。</p>
+<p><strong>注目理由:</strong> テック企業の給与体系と人事戦略、AI産業の人材争奪戦を示唆</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834536473223430</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835976458155396</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 今度は、Tianyaは再起動できるのか？]]></title>
-    <link>https://www.36kr.com/p/3834522912550529</link>
-    <description><![CDATA[<p><strong>内容:</strong> 中国の老舗SNS「Tianya」が3年の沈黙を経て、6月1日に復帰。ユーザーから期待の声が上がり、関連ハッシュタグがトレンド入り。かつての繁栄を取り戻せるかが注目されている。</p>
-<p><strong>注目理由:</strong> 中国の懐かしいプラットフォーム復活は、ユーザーのノスタルジア需要と現在のSNS市場の競争状況を示唆</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834522912550529</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 賞金稼ぎが発見したセキュリティ脆弱性、マイクロソフトはなぜ報酬を支払わないのか？]]></title>
-    <link>https://www.36kr.com/p/3834522611425280</link>
-    <description><![CDATA[<p><strong>内容:</strong> セキュリティ研究者によって発見されたWindows脆弱性について、マイクロソフトの報酬プログラムの対応問題を指摘。システムアップデートの重要性と、脆弱性報告者への待遇のギャップが存在。</p>
-<p><strong>注目理由:</strong> サイバーセキュリティのインセンティブ構造と企業責任に関する議論</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834522611425280</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] Agent（AI エージェント）ハードウェアの大爆発、Qualcommが注力する「計算の連続体」とは何か？]]></title>
-    <link>https://www.36kr.com/p/3834507633700484</link>
-    <description><![CDATA[<p><strong>内容:</strong> Qualcommが台北コンピュータショーで「2026年はAIエージェント元年」と発表。スマートフォン、PC、ウォッチ、自動車、ロボット、産業カメラ、データセンターなど、あらゆるデバイスでAIエージェントが動作する「計算連続体」構想を提示。</p>
-<p><strong>注目理由:</strong> AIエージェント技術の大規模展開戦略と、ハードウェア企業の今後の方向性を示す重要な宣言</p>
+    <title><![CDATA[[36氪] 「アクションカメラの祖」GoPro経営危機へ]]></title>
+    <link>https://www.36kr.com/p/3835885217068416</link>
+    <description><![CDATA[<p><strong>内容:</strong> GoProがSECに「継続企業の前提に重大な疑問」を提出。AI需要による半導体高騰が経営を圧迫、2014年上場時の120億ドルから現在1.9億ドル市場規模に急落。株価は14%下落。</p>
+<p><strong>注目理由:</strong> AI関連の供給チェーン逼迫が予想外の産業に打撃を与えている現象の象徴</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834507633700484</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835885217068416</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 78%の音楽人がAIを使用、突破口は「人格」に？]]></title>
-    <link>https://www.36kr.com/p/3834504690935426</link>
-    <description><![CDATA[<p><strong>内容:</strong> 音楽業界ではAI利用率が78%に達しているが、専門家は機密にしている。著名プロデューサーはAI生成音楽利用者を批判。AIの普及は音楽産業に不安と激怒をもたらしているが、業界は人間にしかできない個性や人格で差別化を図る戦略に注目。</p>
-<p><strong>注目理由:</strong> 創造産業におけるAI導入の現状と、人間らしさの価値を再評価する動き</p>
+    <title><![CDATA[[36氪] MLCC（積層セラミックコンデンサ）の叙事：ストレージ類似だが単純類推不可]]></title>
+    <link>https://www.36kr.com/p/3835853765538948</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI基盤施設投資がGPU、HBM、光モジュールに続きMLCC市場に拡大。従来は受動的な部品だったが、GPU高消費電力化により需要が急増し、サーバー設計の複雑化が進む。</p>
+<p><strong>注目理由:</strong> AIブームの波及効果が予想外の基礎部品市場に及ぶ構図を示す</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834504690935426</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835853765538948</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] モデル危機]]></title>
-    <link>https://www.36kr.com/p/3834503204954373</link>
-    <description><![CDATA[<p><strong>内容:</strong> AI開発者が「学ぶべきことが多すぎて、モデル選択が難しい」と疲弊。かつての圧倒的なモデルの優位性は消滅し、複数モデルを使い分ける必要が発生。token価格上昇、モデル特性の習得負担、実装テストの増加により、開発者の学習疲労と選択障害が深刻化。シリコンバレーではAIに精通した人ほど不安が増す傾向。</p>
-<p><strong>注目理由:</strong> AI産業の急速な進化がもたらす実装者側の課題と、市場飽和の兆候</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834503204954373</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 茶飲店の「複製ゲーム」、次はアイスクリームの番]]></title>
-    <link>https://www.36kr.com/p/3834501320222344</link>
-    <description><![CDATA[<p><strong>内容:</strong> 2026年夏、中国の主要茶飲みチェーン店（霸王茶姬、喜茶、茉莉奶白、蜜雪冰城など）が相次いでアイスクリーム商品を投入。年初から30款以上の新商品が上市。深圳での霸王茶姬の新作は95分の行列。茶飲店はコーヒー・ベーカリーに続き、アイスクリームを新たな成長ドライバーとして位置付け。</p>
-<p><strong>注目理由:</strong> 中国飲食チェーンの多角化戦略と季節商品の販売競争</p>
+    <title><![CDATA[[36氪] AI セキュリティツール「Mythos」が世界的な買収対象に：巨大企業が2週間で百万ドル消費]]></title>
+    <link>https://www.36kr.com/p/3835876805735809</link>
+    <description><![CDATA[<p><strong>内容:</strong> パロアルトネットワークスがMythosのテストで3週間で20以上の極度に重大な脆弱性を検出したが、その過程でAPI利用料として100万ドル以上を消費。世界の大手サイバーセキュリティ企業が殺到している。</p>
+<p><strong>注目理由:</strong> AI開発ツールのコスト問題と次世代セキュリティのビジネスモデル模索</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834501320222344</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835876805735809</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 初の女性責任者、61歳の丁向群が金融監督管理総局を統括、2兆元の人保董事長空席後、誰が後任するのか？]]></title>
-    <link>https://www.36kr.com/p/3834465922475913</link>
-    <description><![CDATA[<p><strong>内容:</strong> 丁向群（61歳）が国家金融監督管理総局の党委書記に任命され、金融監管体系初の女性「舵取り役」となる。李雲泽前局長の後任として局長職も引き継ぎ予定。丁向群は大型国有銀行、保険企業、地方治理で職歴を持つ。</p>
-<p><strong>注目理由:</strong> 中国金融監管体系の人事異動と指導部の女性登用の動向</p>
+    <title><![CDATA[[36氪] 中国版ChatGPT「豆包」有料化へ：最高5088元/年、国産AI無料時代の終焉]]></title>
+    <link>https://www.36kr.com/p/3835873828109184</link>
+    <description><![CDATA[<p><strong>内容:</strong> バイトダンスの豆包が6月下旬より有料プランを開始。三季度にはeコマース機能統合、四季度に本格運用。ユーザーからは反発の声も上がっており、国産AI業界の無料提供モデル終了を意味する。</p>
+<p><strong>注目理由:</strong> 中国AI産業の収益化フェーズ移行と競争激化の象徴</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834465922475913</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835873828109184</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 84.9%、中国造船が世界一を獲得、しかし真の戦争は今始まったばかり]]></title>
-    <link>https://www.36kr.com/p/3834465052452743</link>
-    <description><![CDATA[<p><strong>内容:</strong> 2026年第1四半期、中国造船業が全球新規船舶受注の84.9%を占め世界首位獲得。特に超大型原油タンカー（VLCC）の需要が旺盛で、半年間の受注量が過去の年間記録を超える。グローバル造船大国が製造業不況から回復。</p>
-<p><strong>注目理由:</strong> 中国産業の競争優位性強化と、海運・エネルギー産業の回復トレンド</p>
+    <title><![CDATA[[36氪] 「小美」と「元宝」の提携：AI時代、プラットフォーム入口≠競争力]]></title>
+    <link>https://www.36kr.com/p/3835870813828482</link>
+    <description><![CDATA[<p><strong>内容:</strong> メイトゥアン（美団）が2026年Q1決算で約100億元の減損を達成。核心ローカルビジネスの赤字改善が寄与し、株価は9.27%上昇。ただしプラットフォーム提携だけでは競争優位が保証されない複雑性を指摘。</p>
+<p><strong>注目理由:</strong> 中国ロボデリバリー・ローカルコマース市場の再編動向</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835870813828482</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] CPU黄金期来来：最大受益者は誰か]]></title>
+    <link>https://www.36kr.com/p/3834354708031111</link>
+    <description><![CDATA[<p><strong>内容:</strong> エヌビディアVera プロセッサ登場でサーバーCPU市場が活況。UBS予測では2030年市場規模が1700億ドルに膨張（5年で5倍成長）。ただしAI駆動の真の黄金期か資本バブルかの論争が続く。</p>
+<p><strong>注目理由:</strong> GPU市場後の次の成長エンジン候補としてのCPU需要予測</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Mon, 01 Jun 2026 23:03:35 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3834465052452743</guid>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3834354708031111</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 氪星晚報：複数ニュース速報（高德地図×シンガポール観光局提携、快手の新職業189個創出、中央財政関連）]]></title>
+    <link>https://www.36kr.com/p/3835853792031873</link>
+    <description><![CDATA[<p><strong>内容:</strong> 地図ナビゲーション企業による海外観光機関との協業、短動画プラットフォームによるAI関連新職業15個の創出など、複合的な産業動向速報。</p>
+<p><strong>注目理由:</strong> 中国プラットフォーム企業のAI組み込みと雇用創出への投資動向</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835853792031873</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 12人が1.8億個販売：国内最大のSteam違法商品流通組織が表面化]]></title>
+    <link>https://www.36kr.com/p/3835853126104448</link>
+    <description><![CDATA[<p><strong>内容:</strong> 浙江桐郷警察が特大著作権侵害事件を摘発。犯罪グループ12名が「偽造入庫」サービスで数百元のゲームを数元で販売、1.8億件の取引を実行。デジタル著作権侵害の大規模化を示唆。</p>
+<p><strong>注目理由:</strong> 中国のデジタルコンテンツ盗版対策の課題と執法強化の現状</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Tue, 02 Jun 2026 12:41:30 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3835853126104448</guid>
   </item>
   </channel>
 </rss>
