@@ -5,95 +5,95 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:58:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:25:39 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国主要メディア記事10本 日本語要約]]></title>
-    <link>https://www.36kr.com/p/3845868403526147</link>
+    <title><![CDATA[[36氪] # 中国主要メディア記事10本の日本語要約]]></title>
+    <link>https://www.36kr.com/p/3846046471277059</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845868403526147</guid>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3846046471277059</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] エッジAIの新星：4BパラメータモデルがGPT-5.4に匹敵]]></title>
-    <link>https://www.36kr.com/p/3845792694372614</link>
-    <description><![CDATA[<p><strong>内容:</strong> 中国企業が開発したエッジAI認知モデル（4Bパラメータ）が、大規模言語モデル並みの性能を実現。Appleの端侧AI戦略が進展する一方、Amazonは社内AIコスト問題で排行榜を廃止。</p>
-<p><strong>注目理由:</strong> エッジAI競争の激化と、AIコスト管理の実務的課題が同時に浮上している</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845792694372614</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] SpaceXの高い評価額に「大空頭」が異議]]></title>
-    <link>https://www.36kr.com/p/3845793784298372</link>
-    <description><![CDATA[<p><strong>内容:</strong> 映画『マネー・ショート』で有名な投資家2名が、SpaceXのIPO評価額（1～2兆ドル）が過大だと指摘。IPO申請書類では根拠が不十分とコメント。</p>
-<p><strong>注目理由:</strong> 著名ショートセラーの警告が市場で注目を集めている</p>
+    <title><![CDATA[[36氪] ゲーム業界、チート対策で「軍拡競争」を展開]]></title>
+    <link>https://www.36kr.com/p/3845743691876614</link>
+    <description><![CDATA[<p><strong>内容:</strong> 数千万〜数億人の参加者を抱するゲーム競技場において、チート（外挂）の定義と境界線が曖昧化している。透視やオートエイムなどのツール使用に加え、配信者による宣伝も問題化している。</p>
+<p><strong>注目理由:</strong> ゲーム業界のチート対策の現状と課題が、プレイヤー・開発者・配信者の三層構造で整理されている</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845793784298372</guid>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845743691876614</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] Claude封鎖後の記者の実務レポート]]></title>
-    <link>https://www.36kr.com/p/3845799672072712</link>
-    <description><![CDATA[<p><strong>内容:</strong> AIを業務に活用していた記者がClaudeのアカウント停止を経験。Claudeとkimi併用の執筆ワークフローが断絶し、業務効率が大幅低下。</p>
-<p><strong>注目理由:</strong> AIツール規制が実務者の働き方に与える影響を具体的に記録</p>
+    <title><![CDATA[[36氪] 梅干し菓子メーカー「溜溜梅」が香港上場へ、5億香港ドル調達]]></title>
+    <link>https://www.36kr.com/p/3845718430238983</link>
+    <description><![CDATA[<p><strong>内容:</strong> 溜溜梅（股票代号6658）が2026年6月15日に香港上場。発行価格43.58香港ドル、募資総額5億香港ドル（純額約4.4億）。分衆伝媒がアンカー投資家。</p>
+<p><strong>注目理由:</strong> 中国の食品ブランドの香港上場トレンドとその資金調達規模</p>
+<p><strong>リサーチ価値:</strong> ★☆☆</p>]]></description>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845718430238983</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 具身AI成功の鍵は「データシナリオ」にあり、IoT価値の再評価へ]]></title>
+    <link>https://www.36kr.com/p/3845734546504320</link>
+    <description><![CDATA[<p><strong>内容:</strong> エッジAIの課題である算力・エネルギー・データ供給の中で、データが最重要。次世代の護城河はデータ側に構築されると指摘。AIoTの第一性原理を解説。</p>
+<p><strong>注目理由:</strong> 物理AI時代におけるデータの戦略的価値を、台積電・大モデル企業との比較で分析</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845734546504320</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 金融業界、「単純作業」からの脱却は可能か]]></title>
+    <link>https://www.36kr.com/p/3845754400652160</link>
+    <description><![CDATA[<p><strong>内容:</strong> 金融業界の若手エリートが実施するDD（デューデリジェンス）作業の非効率性を指摘。複数サイトから情報を手作業で集約する作業が常態化している問題を提示。</p>
+<p><strong>注目理由:</strong> 金融業の業務効率化とAI導入の現実的課題を描写</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845799672072712</guid>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845754400652160</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] Appleの第3世代AIモデルに関する経営層の見解]]></title>
-    <link>https://www.36kr.com/p/3845813401733378</link>
-    <description><![CDATA[<p><strong>内容:</strong> WWDC 2026でのApple経営幹部による第3世代AIモデルについての説明と質疑応答。（記事本文の詳細が不完全）</p>
-<p><strong>注目理由:</strong> Apple AIの次世代戦略に関する公式コメント</p>
+    <title><![CDATA[[36氪] 張小龍は10年前からAIエージェント時代を予見？微信AIが全て変える可能性]]></title>
+    <link>https://www.36kr.com/p/3845736620325508</link>
+    <description><![CDATA[<p><strong>内容:</strong> 微信AI搭載計画が明らかに。ユーザーが右スワイプでAIを呼び出し、小程序を直接操作。2021年以来の大型アップデートが迫っている。</p>
+<p><strong>注目理由:</strong> 国民級アプリ微信の次世代機能発表が業界に与える影響</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845736620325508</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 2026年618大促、AIが主役に変身—複雑な比較購買時代の終焉へ]]></title>
+    <link>https://www.36kr.com/p/3845738488724359</link>
+    <description><![CDATA[<p><strong>内容:</strong> 今年の618はAIが中心。淘宝「AI購物助理」、京東の全場景AI、抖音「豆包」、拼多多のAI選品など各プラットフォームが展開。従来の満減計算や時間限定セールが廃止へ。</p>
+<p><strong>注目理由:</strong> eコマース業界のパラダイムシフト—複雑な値引き制度からAIシンプル化への転換</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845738488724359</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] Swisseが小紅書に「流出」後の初618、健合グループの試練]]></title>
+    <link>https://www.36kr.com/p/3845741844252932</link>
+    <description><![CDATA[<p><strong>内容:</strong> 膳食補充剤メーカーSwisseが618での販売戦略変化に直面。小紅書での流出とeコマース環境の変化により、従来の成長ロジックが機能しなくなっている。</p>
+<p><strong>注目理由:</strong> 健康食品業界のeコマース依存戦略の限界が顕在化</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845813401733378</guid>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845741844252932</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 昆山PCB大手企業、4年で12倍成長後に香港IPO上場]]></title>
-    <link>https://www.36kr.com/p/3845799988201730</link>
-    <description><![CDATA[<p><strong>内容:</strong> 沪電股份（PCB大手）が香港交易所にIPO申請。中東紛争がPCB価格上昇を招き、PCBセクターが注目。同社は2010年設立で急速に成長。</p>
-<p><strong>注目理由:</strong> AI関連産業チェーンの変動と地政学的要因が重なる</p>
+    <title><![CDATA[[36氪] 大手企業の派遣社員「摸鱼脱敏計画」—卒業生の現実]]></title>
+    <link>https://www.36kr.com/p/3845771573479944</link>
+    <description><![CDATA[<p><strong>内容:</strong> 新卒栗子が数百社に応募後、怪しい初創企業を経て大手の派遣社員に。学校での成績優秀さが職場では通用しない現実を実体験。</p>
+<p><strong>注目理由:</strong> 中国の新卒就職難と大手派遣労働の現状を個人視点で描写</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845799988201730</guid>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845771573479944</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 李書福投資案件がIPO実現、7億元の含み益]]></title>
-    <link>https://www.36kr.com/p/3845819328023043</link>
-    <description><![CDATA[<p><strong>内容:</strong> 格雷博（EV向け電動駆動システム供給企業）が香港IPO申請。留学博士と指導教授による創業で、新エネ車市場に参入。李書福傘下で育成された企業。</p>
-<p><strong>注目理由:</strong> 中国EVサプライチェーンの産業構造と資本関係を示唆</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845819328023043</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 衛星光電部品メーカーが融資獲得、23万時間無故障稼働]]></title>
-    <link>https://www.36kr.com/p/3845748587923717</link>
-    <description><![CDATA[<p><strong>内容:</strong> 寰宇星通（衛星光ファイバ放大器供給企業）がPre-A+ラウンドで数千万元調達。低軌衛星星座の大規模展開に伴い、衛星光電関連が急速に成長中。</p>
-<p><strong>注目理由:</strong> 中国の衛星インターネット戦略の加速を示す投資動向</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845748587923717</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 兆円規模データ産業、AIに「取り残される」労働者]]></title>
-    <link>https://www.36kr.com/p/3845484630886664</link>
-    <description><![CDATA[<p><strong>内容:</strong> AI発展に伴い、データ標注・採集など新職種が出現する一方、キャリアパスと給与が限定的。中間層の分析職がAIに置き換わり、人材育成の課題が顕在化。</p>
-<p><strong>注目理由:</strong> AI導入による労働市場の空洞化とスキルギャップ問題</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845484630886664</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 218億ドル投資された合成生物学、C段階企業はわずか5社]]></title>
-    <link>https://www.36kr.com/p/3845491360709248</link>
-    <description><![CDATA[<p><strong>内容:</strong> 合成生物学（遺伝子設計で微生物を工場化）が注目産業に。医薬・素材・食品原料生産での応用が期待され、グローバル市場が拡大中。資金流入と企業成熟度のギャップが存在。</p>
-<p><strong>注目理由:</strong> 次世代バイオテクノロジーの産業化段階と投資効率を示す</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Tue, 09 Jun 2026 11:58:57 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3845491360709248</guid>
+    <title><![CDATA[[36氪] 俳優黄磊が院士プロジェクトに投資—セレブの科技シフト]]></title>
+    <link>https://www.36kr.com/p/3845773291325955</link>
+    <description><![CDATA[<p><strong>内容:</strong> 明星による投資が娯楽・消費から半導体・AI・新エネルギーなど硬科技へシフト。歌手鄧紫棋のAI企業投資が10倍リターン。黄晓明も機器人レンタル企業に投資。</p>
+<p><strong>注目理由:</strong> 中国セレブ資本の高度化と硬科技投資トレンド</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Tue, 09 Jun 2026 22:25:39 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3845773291325955</guid>
   </item>
   </channel>
 </rss>
