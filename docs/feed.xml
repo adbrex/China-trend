@@ -5,77 +5,95 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 22:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 11:45:02 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国メディア記事要約（36氪）]]></title>
-    <link>https://www.36kr.com/p/3859904001152003</link>
+    <title><![CDATA[[36氪] # 中国メディア記事要約（日本人リサーチャー向け）]]></title>
+    <link>https://www.36kr.com/p/3862709593887746</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3859904001152003</guid>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862709593887746</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 油车等电车“犯错”，电车等油车“崩盘”]]></title>
-    <link>https://www.36kr.com/p/3860903368185089</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860903368185089</guid>
+    <title><![CDATA[[36氪] PPO算法：かつてNeurIPS 2017で却下されていた]]></title>
+    <link>https://www.36kr.com/p/3862619740853511</link>
+    <description><![CDATA[<p><strong>内容:</strong> 強化学習の古典的アルゴリズムPPO（近接方針最適化）は、現在RLHF（強化学習による人間フィードバック）と大規模言語モデル訓練で広く使用されているが、当時NIPS 2017に投稿された際に却下されていた。PPO作者のJohn Schulman本人が最近この経歴を明かした。</p>
+<p><strong>注目理由:</strong> AI学会の査読プロセスの限界と、革新的研究が必ずしも最初は認められない点に対する関心</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862619740853511</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 都说AI好用，为什么人效还是一样？]]></title>
-    <link>https://www.36kr.com/p/3860130092602628</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860130092602628</guid>
+    <title><![CDATA[[36氪] 企業売却で50人の従業員が経済的自由を達成]]></title>
+    <link>https://www.36kr.com/p/3862459989988610</link>
+    <description><![CDATA[<p><strong>内容:</strong> SpaceXがCursorの親会社Anysphereを600億ドルで買収予定。MIT出身の00後4人が2022年に創立した同社の初期50人の従業員は数千万～数億ドルの利益を獲得見込み。Cursorは過去2年で世界最高のAIプログラミングツールとなった。</p>
+<p><strong>注目理由:</strong> AI産業による急速な富の創造と、イノベーション企業の出口戦略の成功事例</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862459989988610</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] Lululemon长城翻车，原来是被鼓圈“同行内斗”坑了？]]></title>
-    <link>https://www.36kr.com/p/3860115715111816</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860115715111816</guid>
+    <title><![CDATA[[36氪] 強化学習の父Suttonと「Doom」の父Carmackの協力：機械人間を現実世界でゲームさせる]]></title>
+    <link>https://www.36kr.com/p/3862527005693186</link>
+    <description><![CDATA[<p><strong>内容:</strong> 2026年初、成都の商場で人型ロボットが高齢者と衝突し負傷させる事故が発生。現在の大規模言語モデル能力では人型ロボットの安全問題を2～3年以内に解決することは困難とのコメント。シミュレータと実世界での性能ギャップが課題。</p>
+<p><strong>注目理由:</strong> 中国の具身知能（ロボット）開発における実践的課題と安全性への懸念</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862527005693186</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 中国机器人充当间谍，还操纵儿童？美国泼脏水背后是一门生意]]></title>
-    <link>https://www.36kr.com/p/3860779263956226</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860779263956226</guid>
+    <title><![CDATA[[36氪] 具身知能トラックの現状：頭脳の出来が良いと、数百億元スタートアップか独角獣企業]]></title>
+    <link>https://www.36kr.com/p/3862408718423041</link>
+    <description><![CDATA[<p><strong>内容:</strong> 2026年上半年、国内具身知能トラック融資額は約438億元。半数以上が「ソフトウェア定義ハードウェア、モデル定義本体」を標榜する「脳派」企業に流入。従来のハードウェア中心の企業との業界再編が進行中。</p>
+<p><strong>注目理由:</strong> 中国のロボット産業における資本流入動向と、ソフトウェア・モデル重視への産業シフト</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862408718423041</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 河南老板带着200家火锅店，要去敲钟了]]></title>
-    <link>https://www.36kr.com/p/3860857599579399</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860857599579399</guid>
+    <title><![CDATA[[36氪] AI大手の「Token補助戦争」、終わりに向かっているか]]></title>
+    <link>https://www.36kr.com/p/3862288768570377</link>
+    <description><![CDATA[<p><strong>内容:</strong> Token（言語モデルの処理単位）価格が高く、企業はコスト削減に向かっている。実はAI大手の補助により、ユーザーが使用するTokenは補助済みで、補助額は購読料の70倍に達する可能性。OpenAIとAnthropicのIPO段階進入により、補助戦争の終了が見込まれる。</p>
+<p><strong>注目理由:</strong> AI業界の採算性問題とビジネスモデル転換への関心</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862288768570377</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 放弃出片的中产，挤爆「旅游兴趣班」]]></title>
-    <link>https://www.36kr.com/p/3860815683277826</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860815683277826</guid>
+    <title><![CDATA[[36氪] GRPOアルゴリズムは時代遅れか]]></title>
+    <link>https://www.36kr.com/p/3862257619293193</link>
+    <description><![CDATA[<p><strong>内容:</strong> 6月13日、智谱がGLM-5.2の完全オープン化を発表。特別な時刻（5時21分）での公開タイミングに意味がある。（記事詳細は提供情報で不完全）</p>
+<p><strong>注目理由:</strong> 中国大規模言語モデルの最新開発動向と技術進化</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862257619293193</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 刚刚，诺贝尔奖得主成Anthropic新员工]]></title>
-    <link>https://www.36kr.com/p/3860814933660674</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860814933660674</guid>
+    <title><![CDATA[[36氪] チップ装置の「鉄則」が破られている]]></title>
+    <link>https://www.36kr.com/p/3862205674329349</link>
+    <description><![CDATA[<p><strong>内容:</strong> 半導体サプライチェーンの価格決定権はピラミッド構造。頂点にはApple、NVIDIA、Microsoft等の大手。装置企業は技術壁が高いにもかかわらず、ピーク下位に位置し、新製品導入時の大幅値引きや反復購入時の値下げ圧力に直面。この業界の不文律が変化しつつある。</p>
+<p><strong>注目理由:</strong> グローバル半導体産業のサプライチェーン再編と価格構造の変化</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3862205674329349</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] “摇一摇”广告终于被整治，但我的手指还是不敢乱动]]></title>
-    <link>https://www.36kr.com/p/3860786388538629</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860786388538629</guid>
+    <title><![CDATA[[36氪] 「現在のガソリン車は当時の馬車」]]></title>
+    <link>https://www.36kr.com/p/3861431890990089</link>
+    <description><![CDATA[<p><strong>内容:</strong> 電動化趋勢が全球市場で急速に展開。1～5月、中国新エネルギー車累計販売580.2万台（前年同月比3.5%増）。欧州でも新車登録の20.9%が電動車。従来の自動車メーカーも新時代の到来を感じている。</p>
+<p><strong>注目理由:</strong> グローバル自動車産業の電動化加速と市場の急速な転換</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3861431890990089</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 花钱雇AI当同事，我的生意怎么样了？]]></title>
-    <link>https://www.36kr.com/p/3860798447686920</link>
-    <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Sat, 20 Jun 2026 22:10:50 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3860798447686920</guid>
+    <title><![CDATA[[36氪] 9600億元AI独角獣企業、再び資金調達へ]]></title>
+    <link>https://www.36kr.com/p/3823296136237192</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI データ企業Databricksが新規融資を計画、評価額最高1750億ドル（約1.26兆円）目指す。SpaceX上場、OpenAI/Anthropic秘密IPO準備の中、一級市場で活動する最大級のAI独角獣企業。2月に50億ドル融資済み、現在の評価額は1340億ドル。企業の民間データを「価値化」させるビジネスモデル。</p>
+<p><strong>注目理由:</strong> AI産業の大手企業の上場動向と、データ管理企業の急速な成長</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Sun, 21 Jun 2026 11:45:02 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3823296136237192</guid>
   </item>
   </channel>
 </rss>
