@@ -5,95 +5,95 @@
     <link></link>
     <description><![CDATA[中国主要メディアの話題記事を日本語要約（1日2回更新）]]></description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:44:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 22:19:56 GMT</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title><![CDATA[[36氪] # 中国主要メディア記事10本の日本語要約]]></title>
-    <link>https://www.36kr.com/p/3867017700005127</link>
+    <title><![CDATA[[36氪] # 中国主要メディア記事10本 日本語要約]]></title>
+    <link>https://www.36kr.com/p/3867036980974857</link>
     <description><![CDATA[<p>（要約なし）</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867017700005127</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867036980974857</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] AI研究エージェント、人民大学とマイクロソフトが盲目的試行錯誤を解決するフレームワークをオープンソース化]]></title>
-    <link>https://www.36kr.com/p/3867010001261574</link>
-    <description><![CDATA[<p><strong>内容:</strong> 現在のAIエージェントは実行力は強いが、独立した科学研究ができないという課題がある。人民大学高瓴AI学院とマイクロソフト研究所が、仮説・証拠・失敗を体系的に管理し継続的に進化するフレームワークを開発し、Hugging Faceで日本ランキング1位を獲得。</p>
-<p><strong>注目理由:</strong> AI研究の自動化が中国の学術機関とグローバル企業の協力で進展していることを示す</p>
+    <title><![CDATA[[36氪] 今年の618セール（年中大促）は「大声を出す」競争ではなく、商家の本質的な経営能力が勝負を分ける]]></title>
+    <link>https://www.36kr.com/p/3867009591645191</link>
+    <description><![CDATA[<p><strong>内容:</strong> 2024年の618セールでは、複数の消費節点を活用した精密なマーケティング、プラットフォームによるシンプルで効率的な割引戦略、そして商家の商品・コンテンツ・価格・サービスの総合的な競争力が重視されている。流量獲得の技巧より品質経営が重要になった。</p>
+<p><strong>注目理由:</strong> 中国ECプラットフォームの成熟化と競争戦略の転換を示す重要な指標</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867010001261574</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867009591645191</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] Netflixが90%の冗長トークンを削減するAI最適化ツールをオープンソース化、年間70万ドルのコスト削減]]></title>
-    <link>https://www.36kr.com/p/3866909936342017</link>
-    <description><![CDATA[<p><strong>内容:</strong> エンジニアのTejas Chopraが開発した「Headroom」というツールにより、LLMへのプロンプト内の冗長なトークンを最大90%削減可能。Netflixの複数チームが内部利用しており、大幅なコスト削減を実現。</p>
-<p><strong>注目理由:</strong> AI活用による急増する費用問題への実践的なソリューションが注目される</p>
+    <title><![CDATA[[36氪] AI企業LindyがClaudeからDeepSeekへ移行、9ヶ月で莫大なコスト削減を実現]]></title>
+    <link>https://www.36kr.com/p/3867046050380679</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI Agent企業がAnthropicのClaudeからDeepSeekへの全面切り替えを完了。移行作業量は100倍に増加したが、年間数百万ドルのコスト削減を達成。モデルの性能より運用コストの効率性が企業選択の決定要因となっている。</p>
+<p><strong>注目理由:</strong> 中国AI企業DeepSeekの国際競争力と、AI実装における経済合理性の重要性を示す</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3866909936342017</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867046050380679</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 孩子王がHK上場を準備、第1四半期売上25億元、純利4,862万元]]></title>
-    <link>https://www.36kr.com/p/3867047187420420</link>
-    <description><![CDATA[<p><strong>内容:</strong> 中国の児童用品企業「孩子王」がHKEx上場申請中。2021年に深セン上場済み、創業者汪建国が27%の議決権を保有。Q1で好調な業績を記録。</p>
-<p><strong>注目理由:</strong> 中国の次世代育成関連企業による香港上場の動きが活発化</p>
+    <title><![CDATA[[36氪] 盒馬（Hema）と蜜雪冰城が「酒販売店」事業に参入、3000店舗規模で熾烈な競争]]></title>
+    <link>https://www.36kr.com/p/3867068773258498</link>
+    <description><![CDATA[<p><strong>内容:</strong> 盒馬がドラフトバー（HEMA DRAFT BAR）を展開開始。白酒5.8元からの低価格設定で「口粮酒」市場に進出。新規参入者による価格破壊的な競争が広がっている。</p>
+<p><strong>注目理由:</strong> 中国の飲酒文化と日用消費品市場への大手小売企業の多角化戦略</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867047187420420</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867068773258498</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] 豆包（ByteDance AI）が専門版でAgent機能を搭載、2億日活ユーザーが利用可能に]]></title>
-    <link>https://www.36kr.com/p/3866916399528838</link>
-    <description><![CDATA[<p><strong>内容:</strong> 豆包が新「オフィスタスクモード」を搭載した専門版をリリース。豆包2.1 Proモデル搭載で、レポート作成・財務分析などの業務タスクをClause Opus 4.6レベルで実行可能。</p>
-<p><strong>注目理由:</strong> 国民級AIアプリが本格的にエンタープライズ機能に進出</p>
-<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3866916399528838</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 入力法がAI新風口に、WeChat・豆包・千問がそろう、音声入力時代到来]]></title>
-    <link>https://www.36kr.com/p/3866929103502216</link>
-    <description><![CDATA[<p><strong>内容:</strong> アリの千問チームが独立した手機入力法アプリを開発予定。WeChat、豆包も音声入力を強化しており、BAT（バイトダンス・阿里・テンセント）が入力法市場に集約。AI音声入力が主流化へ。</p>
-<p><strong>注目理由:</strong> スマートフォンのHMI領域でAI統合が急速に進行</p>
+    <title><![CDATA[[36氪] 185Hz超高刷新率スマートフォンが秋に相次ぎ登場、高刷新率の実用性は製造業者だけの責任ではない]]></title>
+    <link>https://www.36kr.com/p/3867068817872135</link>
+    <description><![CDATA[<p><strong>内容:</strong> 秋季旗艦機で185Hz超高刷新率スクリーンが採用予定。高刷新率技術が上位機種の標準仕様化の動きが加速。ただし高刷新率の実用価値はアプリケーション開発側の対応にも依存している。</p>
+<p><strong>注目理由:</strong> スマートフォンハードウェア技術トレンドとエコシステム課題</p>
 <p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3866929103502216</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867068817872135</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] ヘッドホン市場が復興、スマートフォンメーカーが続々参入、Honor・vivoも登場]]></title>
-    <link>https://www.36kr.com/p/3867009674499079</link>
-    <description><![CDATA[<p><strong>内容:</strong> Honor（399元）とvivo（499元）が低価格ヘッドホンを投入、XiaomiのREDMIも参入予定。スマートフォンメーカーが音声デバイス市場を開拓する新トレンド。</p>
-<p><strong>注目理由:</strong> スマートフォンメーカーの周辺機器事業への本格展開が加速</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867009674499079</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] 「老人玩具」で高齢者ユーザーをターゲット、ただし利益は限定的]]></title>
-    <link>https://www.36kr.com/p/3867046940071175</link>
-    <description><![CDATA[<p><strong>内容:</strong> 中国ECプラットフォームで「老人玩具」（知育パズル等）がトレンド化。55歳以上の購買が増加、検索量は前年比124%増。しかし実際の利益率や市場規模は限定的という実態。</p>
-<p><strong>注目理由:</strong> シルバーエコノミー市場の実態が検証される</p>
-<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867046940071175</guid>
-  </item>
-  <item>
-    <title><![CDATA[[36氪] Anthropic CEO、会社設立理由を初告白：「オルトマンの嘘が許せなかった」]]></title>
-    <link>https://www.36kr.com/p/3867046995694596</link>
-    <description><![CDATA[<p><strong>内容:</strong> DarioアモデイがインタビューでAnthropicの設立理由を明かす：AI安全のためではなく、OpenAI CEOオルトマンの言動に納得できなかったから。シリコンバレーの私的な対立が兆ドル企業の競争を生み出した。</p>
-<p><strong>注目理由:</strong> AI業界の最高指導層による内部紛争の実態が露呈</p>
+    <title><![CDATA[[36氪] 人間であることを証明するために、今後はカメラに向かって手を振る必要がある]]></title>
+    <link>https://www.36kr.com/p/3867120921515272</link>
+    <description><![CDATA[<p><strong>内容:</strong> AI大模型の普及で従来の検証コード（CAPTCHA）システムが機能しなくなっている。新たな人間認証方式として生体動作認証（手振りなど）の導入が進められている。インターネット信頼体系の根本的な課題に直面している。</p>
+<p><strong>注目理由:</strong> AI時代のサイバーセキュリティと身分認証システムの変革</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867046995694596</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867120921515272</guid>
   </item>
   <item>
-    <title><![CDATA[[36氪] オルトマンの「私的キャッシュマシン」が暴露、OpenAIに665億ドルの隠れた地雷]]></title>
-    <link>https://www.36kr.com/p/3867047072748548</link>
-    <description><![CDATA[<p><strong>内容:</strong> WSJが報道：オルトマンは持ち株ゼロながらOpenAIを私的に資金化。機密IPO文書で665億ドル規模の潜在的な問題が露呈。OpenAIのガバナンス問題が深刻化。</p>
-<p><strong>注目理由:</strong> OpenAIのIPOを控えた大スキャンダル、AI業界全体への波及が懸念される</p>
+    <title><![CDATA[[36氪] 中国自動車企業が海外工場の獲得・建設を加速、10大プレイヤーが出海攻勢を展開]]></title>
+    <link>https://www.36kr.com/p/3867121093645574</link>
+    <description><![CDATA[<p><strong>内容:</strong> 小鹏汽車がマレーシア工場での現地生産を開始。中国車企による海外進出が「造船時代」（大規模展開期）に突入。複数企業が同時に海外生産基地を構築・展開している。</p>
+<p><strong>注目理由:</strong> 中国製造業の国際化とグローバル競争力の実質化を示す重要な動き</p>
 <p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
-    <pubDate>Wed, 24 Jun 2026 11:44:06 GMT</pubDate>
-    <guid isPermaLink="true">https://www.36kr.com/p/3867047072748548</guid>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867121093645574</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] ソフトバンク孫正義CEO: 「AIに泡沫はない」と発言、マスクの宇宙データセンター構想に異議]]></title>
+    <link>https://www.36kr.com/p/3867121168782592</link>
+    <description><![CDATA[<p><strong>内容:</strong> ソフトバンク株主総会でCEO孫正義がAI投資の正当性を主張し、AI泡沫論を「AI への冒涜」と批判。ロボット量産開始を発表。一方、マスクの軌道データセンター構想の実用価値を疑問視。</p>
+<p><strong>注目理由:</strong> グローバルテック大手の戦略転換とAI投資の持続可能性に関する経営者の立場表明</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867121168782592</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] Meta、1999元（約300米ドル）のAIスマートグラス販売開始、墨鏡のように購入できる価格設定]]></title>
+    <link>https://www.36kr.com/p/3867121647113221</link>
+    <description><![CDATA[<p><strong>内容:</strong> Metaが3款式のAIスマートグラスを発表。基本モデルは299米ドル（約1999元）。スターファイア聯名款は399米ドル。大衆向け価格設定で消費者層の拡大を狙う。</p>
+<p><strong>注目理由:</strong> AR/MRウェアラブルデバイスの大衆化と消費者受容性の転機</p>
+<p><strong>リサーチ価値:</strong> ★★★</p>]]></description>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867121647113221</guid>
+  </item>
+  <item>
+    <title><![CDATA[[36氪] 「代工の王様」富士達、上場申請も依然として利益率が低い構造的課題]]></title>
+    <link>https://www.36kr.com/p/3867121674949888</link>
+    <description><![CDATA[<p><strong>内容:</strong> 自転車代工大手・富士達（Fuji Wheel）が上場審査を通過。共有自転車（ハロー、青桔、美団など）とSpecialized、デカトロンなどグローバルブランドの主要製造元。「二輪車業界のフォックスコン」と呼ばれるが、低利益率構造に苦しむ。</p>
+<p><strong>注目理由:</strong> 中国代工製造業の構造的問題と産業の上場ラッシュにおける収益性の課題</p>
+<p><strong>リサーチ価値:</strong> ★★☆</p>]]></description>
+    <pubDate>Wed, 24 Jun 2026 22:19:56 GMT</pubDate>
+    <guid isPermaLink="true">https://www.36kr.com/p/3867121674949888</guid>
   </item>
   </channel>
 </rss>
